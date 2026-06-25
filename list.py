@@ -330,9 +330,19 @@ if selected_uploaded_files:
             else:
                  profit = 0 
             
-            # Группируем продажи по датам, чтобы отрисовать плавный график.
-            daily_sales = product_df.groupby('Дата поступления заказа')['Количество'].sum().reset_index()
-            daily_sales = daily_sales.sort_values('Дата поступления заказа')
+            # Группируем продажи по датам и заполняем пропущенные дни нулём,
+            # чтобы график опускался до нуля в дни без продаж.
+            product_sales_by_day = product_df.groupby('Дата поступления заказа')['Количество'].sum().sort_index()
+            if not product_sales_by_day.empty:
+                date_range = pd.date_range(
+                    start=product_sales_by_day.index.min(),
+                    end=product_sales_by_day.index.max(),
+                    freq='D'
+                )
+                daily_sales = product_sales_by_day.reindex(date_range, fill_value=0).reset_index()
+                daily_sales.columns = ['Дата поступления заказа', 'Количество']
+            else:
+                daily_sales = pd.DataFrame(columns=['Дата поступления заказа', 'Количество'])
             
             # Разбиваем карточку товара на три зоны: информация, метрики и график.
             col1, col2, col3 = st.columns([1, 1,2])
@@ -360,6 +370,7 @@ if selected_uploaded_files:
                     )
                     fig.update_traces(line=dict(width=3), marker=dict(size=6))
                     fig.update_xaxes(range=[x_axis_start, x_axis_end], tickformat="%d.%m.%Y")
+                    fig.update_yaxes(rangemode='tozero')
                     fig.update_layout(margin=dict(l=10, r=10, t=10, b=10), showlegend=False)
                     st.plotly_chart(fig, use_container_width=True, key=f"chart_{article}")
             
