@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 # Настройка страницы Streamlit: заголовок и широкий макет для удобного отображения аналитики.
 st.set_page_config(page_title="Аналитика продаж", layout="wide")
@@ -12,6 +13,14 @@ st.title('Динамика продаж')
 st.sidebar.header("📁 Загрузка данных")
 st.sidebar.write("Прикрепите выгрузки заказов (ArchiveOrders и ActiveOrders)")
 
+# Папка, где лежит этот скрипт. Именно из неё будут браться файлы по умолчанию.
+project_root = Path(__file__).resolve().parent
+
+# Файлы по умолчанию, если пользователь не загрузил свои.
+default_uploaded_paths = [project_root / name for name in ["Archive.csv", "Active.csv"] if (project_root / name).exists()]
+default_stock_path = project_root / "Stock.csv" if (project_root / "Stock.csv").exists() else None
+default_links_path = project_root / "Links.csv" if (project_root / "Links.csv").exists() else None
+
 # Поле выбора одного или нескольких CSV-файлов с данными о продажах.
 uploaded_files = st.sidebar.file_uploader(
     "Выберите один или несколько CSV файлов", 
@@ -22,6 +31,19 @@ uploaded_files = st.sidebar.file_uploader(
 stock_file = st.sidebar.file_uploader("Остатки (CSV)", type=['csv'])
 # Поле выбора файла со ссылками на карточки товаров.
 links_file = st.sidebar.file_uploader("Ссылки", type=['csv'])
+
+# Если пользователь не выбрал файлы вручную, берём файлы по умолчанию из корневой папки.
+selected_uploaded_files = uploaded_files if uploaded_files else default_uploaded_paths
+selected_stock_file = stock_file if stock_file else default_stock_path
+selected_links_file = links_file if links_file else default_links_path
+
+
+def _resolve_file_source(file):
+    if hasattr(file, "seek"):
+        file.seek(0)
+        return file
+    return Path(file)
+
 
 # Кэширование функции чтения и подготовки данных для ускорения повторных загрузок.
 @st.cache_data
@@ -66,44 +88,65 @@ def process_uploaded_files(files):
 @st.cache_data
 def process_stock(file):
     try:
-        # Возвращаем указатель файла в начало, чтобы корректно прочитать его повторно.
-        file.seek(0)
+        source = _resolve_file_source(file)
         # Читаем файл с остатками как сырой CSV, так как структура может быть нестандартной.
-        raw_df = pd.read_csv(file, header=None, encoding='utf-8-sig', sep=None, engine='python')
-        # Ищем строку, содержащую слово "Наименование" — это заголовок таблицы.
-        mask = raw_df.apply(lambda row: row.astype(str).str.contains('Наименование', case=False, na=False).any(), axis=1)
-        
-        if not mask.any():
-            # Если заголовок не найден, возвращаем None.
+        raw_df = pd.read_csv(source, header=None, encoding='utf-8-sig', sep=None, engine='python')
+
+        # Ищем строку, в которой есть заголовки нужных колонок: Артикул, Наименование, Остаток, Себестоимость.
+        header_idx = None
+        for idx, row in raw_df.iterrows():
+            row_values = [str(v).strip().lower() for v in row.tolist() if pd.notna(v)]
+            if any(col in row_values for col in ['артикул', 'наименование', 'остаток', 'себестоимость']):
+                header_idx = idx
+                break
+
+        if header_idx is None:
             return None
-        
-        # Находим индекс строки с заголовком и берём данные ниже неё.
-        header_idx = mask.idxmax()
-        df_stock = raw_df.iloc[header_idx+1:].copy()
+
+        # Берём строки ниже заголовка как данные.
+        df_stock = raw_df.iloc[header_idx + 1:].copy()
         df_stock.columns = raw_df.iloc[header_idx]
-        df_stock.columns = df_stock.columns.str.strip()
-        # Удаляем пустые строки, где нет названия товара.
+        df_stock.columns = [str(col).strip() for col in df_stock.columns]
+
+        # Ищем реальные названия колонок в заголовке с учётом возможных различий.
+        name_col = next((col for col in df_stock.columns if 'наименование' in str(col).lower()), None)
+        stock_col = next((col for col in df_stock.columns if 'остаток' in str(col).lower()), None)
+        reserve_col = next((col for col in df_stock.columns if 'резерв' in str(col).lower()), None)
+        cost_col = next((col for col in df_stock.columns if 'себестоимость' in str(col).lower()), None)
+        article_col = next((col for col in df_stock.columns if 'артикул' in str(col).lower()), None)
+
+        if not name_col or not article_col:
+            return None
+
+        # Оставляем только нужные колонки.
+        needed_cols = [col for col in [article_col, name_col, stock_col, reserve_col, cost_col] if col is not None]
+        df_stock = df_stock[needed_cols].copy()
+
+        # Переименовываем колонки в стандартные имена.
+        rename_map = {article_col: 'Артикул', name_col: 'Наименование', stock_col: 'Остаток', reserve_col: 'Резерв', cost_col: 'Себестоимость'}
+        df_stock = df_stock.rename(columns=rename_map)
+
+        # Очищаем строки от служебных и пустых значений.
         df_stock = df_stock.dropna(subset=['Наименование'])
-        # Добавляем нормализованное название для сопоставления с товарами из заказов.
         df_stock['Наименование_clean'] = df_stock['Наименование'].astype(str).str.strip().str.lower()
-        
-        # Преобразуем числовые колонки в числовой формат, заменяя запятые на точки.
+        df_stock['Артикул'] = df_stock['Артикул'].astype(str).str.strip()
+
+        # Преобразуем числовые колонки.
         for col in ['Остаток', 'Резерв', 'Себестоимость']:
             if col in df_stock.columns:
                 df_stock[col] = pd.to_numeric(df_stock[col].astype(str).str.replace(',', '.'), errors='coerce').fillna(0)
+
         return df_stock
-    except:
-        # В случае любой ошибки при обработке файла с остатками — возвращаем None.
+    except Exception:
         return None
 
 # Кэширование обработки CSV-файла со ссылками на карточки товаров.
 @st.cache_data
 def process_links(file):
     try:
-        # Возвращаем курсор файла в начало, чтобы прочитать его снова.
-        file.seek(0)
+        source = _resolve_file_source(file)
         # Читаем файл со ссылками в DataFrame.
-        df = pd.read_csv(file, encoding='utf-8-sig')
+        df = pd.read_csv(source, encoding='utf-8-sig')
         df.columns = df.columns.str.strip()
 
         # Если в файле есть нужные колонки — берём их напрямую.
@@ -163,12 +206,13 @@ def render_pagination_controls(current_page, total_pages, position="middle"):
 
 
 # --- ОСНОВНАЯ ЛОГИКА ---
-# Основной блок приложения: выполняется только если пользователь загрузил хотя бы один CSV-файл.
-if uploaded_files:
+# Основной блок приложения должен запускаться сразу, если есть файлы по умолчанию
+# или если пользователь загрузил свои CSV через интерфейс.
+if selected_uploaded_files:
     # Подготовка основных данных: продажи, остатки и ссылки.
-    df = process_uploaded_files(uploaded_files)
-    stock_df = process_stock(stock_file) if stock_file else None
-    links_df = process_links(links_file) if links_file else None
+    df = process_uploaded_files(selected_uploaded_files)
+    stock_df = process_stock(selected_stock_file) if selected_stock_file else None
+    links_df = process_links(selected_links_file) if selected_links_file else None
     
     # Если после обработки данных получена не пустая таблица — строим интерфейс аналитики.
     if not df.empty:
