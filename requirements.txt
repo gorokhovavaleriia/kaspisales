@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly.express
-equests
+requests
 beautifulsoup4==4.12.3
 lxml==5.2.2
 xml.etree.ElementTree
