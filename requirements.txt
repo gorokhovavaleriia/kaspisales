@@ -3,6 +3,5 @@ pandas
 plotly.express
 requests
 beautifulsoup4==4.12.3
-lxml==5.2.2
-xml.etree.ElementTree
+lxml==5.3.0
 re
