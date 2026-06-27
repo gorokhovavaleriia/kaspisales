@@ -1,7 +1,7 @@
 streamlit
 pandas
-plotly.express
+plotly
 requests
-beautifulsoup4==4.12.3
-lxml==5.3.0
-re
+beautifulsoup4
+openpyxl
+xlrd
