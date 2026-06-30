@@ -5,3 +5,5 @@ requests
 beautifulsoup4
 openpyxl
 xlrd
+gspread
+google-auth-oauthlib
