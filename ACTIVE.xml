@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-06-30 22:34">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-07-01 12:13">
     <company>30397554</company>
     <merchantid>30397554</merchantid>
     <offers>
@@ -66,7 +66,7 @@
             <model>фиксатор одеяла кнопка моно</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="56.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">490</cityprice>
@@ -102,16 +102,6 @@
                 <cityprice cityId="710000000">383</cityprice>
             </cityprices>
         </offer>
-        <offer sku="114376618_9865678645">
-            <model>чашки пирамидки</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">795</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="143283011_5734823902">
             <model>черные колпачки 4 шт LEXUS</model>
             <brand>Fixcom</brand>
@@ -120,16 +110,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">979</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="108149067_9808243">
-            <model>Разделочная доска 39*28</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="70.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2075</cityprice>
             </cityprices>
         </offer>
         <offer sku="136965514_559871017">
@@ -176,20 +156,10 @@
             <model>Игрушка девочка мальчик красные</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="64.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">600</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="151853049_8576798554">
-            <model>декоративный светильник</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2897</cityprice>
             </cityprices>
         </offer>
         <offer sku="154813510_5743359205">
@@ -296,7 +266,7 @@
             <model>кисть для масок черная</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="94.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="93.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">679</cityprice>
@@ -306,7 +276,7 @@
             <model>только мыльница кричневая дорожная</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="14.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">997</cityprice>
@@ -442,16 +412,6 @@
                 <cityprice cityId="710000000">198</cityprice>
             </cityprices>
         </offer>
-        <offer sku="142668752 _4708190908272">
-            <model>Кольцо для мяча тигренок</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1134</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="115193638_75438922034">
             <model>кружка с подогревом</model>
             <brand>Fixcom</brand>
@@ -556,7 +516,7 @@
             <model>светильник розы</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="9.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">3598</cityprice>
@@ -652,16 +612,6 @@
                 <cityprice cityId="710000000">549</cityprice>
             </cityprices>
         </offer>
-        <offer sku="164489318_758433475">
-            <model>дыхательный тренажер розовый</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">916</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="136970124_839041034">
             <model>Ершик для чистки емкостей</model>
             <brand>Fixcom</brand>
@@ -696,7 +646,7 @@
             <model>пластиковая мыльница</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="49.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">800</cityprice>
@@ -816,7 +766,7 @@
             <model>кондитерский валик</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">620</cityprice>
@@ -902,16 +852,6 @@
                 <cityprice cityId="710000000">2025</cityprice>
             </cityprices>
         </offer>
-        <offer sku="112882242_5123312132">
-            <model>наклейки защитные прозрачные</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">570</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="117473829_834474766">
             <model>Accessories наклейка Hyundai 9x9 см</model>
             <brand>Fixcom</brand>
@@ -966,7 +906,7 @@
             <model>кондитерский валик</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">620</cityprice>
@@ -996,7 +936,7 @@
             <model>фиксатор одеяла кнопка моно</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="56.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">490</cityprice>
@@ -1096,7 +1036,7 @@
             <model>пластилин строительный</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2499</cityprice>
@@ -1126,7 +1066,7 @@
             <model>зубная паста для котят</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="8.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1400</cityprice>
@@ -1160,16 +1100,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2600</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="122464164_1235496654">
-            <model>Разделочная доска 39*28</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="70.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2075</cityprice>
             </cityprices>
         </offer>
         <offer sku="115875475_5478329882">
@@ -1298,7 +1228,7 @@
             <model>кондитерский валик</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">620</cityprice>
@@ -1368,7 +1298,7 @@
             <model>держатель телефона паутина</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="80.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="78.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">600</cityprice>
@@ -1398,7 +1328,7 @@
             <model>тренажер пальцев ног</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="25.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="23.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">650</cityprice>
@@ -1418,7 +1348,7 @@
             <model>держатель телефона паутина</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="80.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="77.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">600</cityprice>
@@ -1454,16 +1384,6 @@
                 <cityprice cityId="710000000">8989</cityprice>
             </cityprices>
         </offer>
-        <offer sku="130357813_23498724">
-            <model>хлопок 10 шт</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">998</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="112424948_213123123312">
             <model>подстаканник в коляску</model>
             <brand>Fixcom</brand>
@@ -1478,27 +1398,17 @@
             <model>кухонные ножницы золото</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1247</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="115998806_544513312">
-            <model>переходник usb type-c</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1977</cityprice>
             </cityprices>
         </offer>
         <offer sku="129920263_312123123">
             <model>черная наклейка hyunday</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1300</cityprice>
@@ -1688,7 +1598,7 @@
             <model>держатель очков голд</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="40.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="39.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">609</cityprice>
@@ -1714,36 +1624,6 @@
                 <cityprice cityId="710000000">1200</cityprice>
             </cityprices>
         </offer>
-        <offer sku="106284042_98172987">
-            <model>лампа для блога</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="81.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1699</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="135932817_272882939">
-            <model>Дождевик серый</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">791</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="104701785_8745146531">
-            <model>лампа для блога</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="81.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1699</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="117722758_7834659275">
             <model>щетка тряпка на лобовое</model>
             <brand>Fixcom</brand>
@@ -1752,16 +1632,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">800</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="105611216_79099041">
-            <model>лампа для блога</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="81.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1699</cityprice>
             </cityprices>
         </offer>
         <offer sku="128787564_5765732725">
@@ -1778,7 +1648,7 @@
             <model>настолка магнитный бой</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">3800</cityprice>
@@ -1838,7 +1708,7 @@
             <model>детская панамка розовая</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="9.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="8.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1390</cityprice>
@@ -1852,16 +1722,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4994</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="141564118_8787987979">
-            <model>электрическая овощерезка</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">49340</cityprice>
             </cityprices>
         </offer>
         <offer sku="134655481_54123123">
@@ -1884,71 +1744,21 @@
                 <cityprice cityId="710000000">898</cityprice>
             </cityprices>
         </offer>
-        <offer sku="141720494_84565613">
-            <model>зажим для простыней трубы</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">711</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="113474553_451451516">
-            <model>декоративный светильник Rose of love</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="43.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">7400</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="141974900_23123123">
-            <model>банка уточка лэппэгэр</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="25.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1238</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="142164544_6415162658">
             <model>фритюрница с подставкой</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="16.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2247</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="120894039_586795485">
-            <model>коврик доллар</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="29.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1960</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="146289741_79798089">
-            <model>зажим для простыней трубы</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">711</cityprice>
             </cityprices>
         </offer>
         <offer sku="134995275_908098423">
             <model>кассета love forever 2 60s</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="36.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="35.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2500</cityprice>
@@ -1958,30 +1768,10 @@
             <model>заглушки бело-голубые</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="70.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="68.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">328</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="122478476_546432123">
-            <model>зажим для простыней трубы</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">711</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116672914_5439753802">
-            <model>комнатный термометр НТС-2</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="67.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1200</cityprice>
             </cityprices>
         </offer>
         <offer sku="120028110_92349739">
@@ -2094,21 +1884,11 @@
                 <cityprice cityId="710000000">615</cityprice>
             </cityprices>
         </offer>
-        <offer sku="550235151">
-            <model>Набор для создания отпечатка</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1415</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="132322764_56464896">
             <model>Фен щетка</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="73.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="72.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4999</cityprice>
@@ -2128,37 +1908,17 @@
             <model>сушилка для овощей</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="46.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2199</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="110559231_54123213123">
-            <model>палочки для воздушных шариков</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1607</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116022326_813512313">
-            <model>палочки для воздушных шариков</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1607</cityprice>
             </cityprices>
         </offer>
         <offer sku="123923683_1564561256">
             <model>Настольный звонок красный</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="94.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="93.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">495</cityprice>
@@ -2168,7 +1928,7 @@
             <model>уличный фонарь квадрат</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="8.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7500</cityprice>
@@ -2178,7 +1938,7 @@
             <model>сушилка для овощей</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="46.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2199</cityprice>
@@ -2188,7 +1948,7 @@
             <model>неоновые палочки</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="31.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="30.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2500</cityprice>
@@ -2198,7 +1958,7 @@
             <model>неоновые палочки</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="31.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="30.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2500</cityprice>
@@ -2208,7 +1968,7 @@
             <model>неоновые палочки</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="31.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="30.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2500</cityprice>
@@ -2222,16 +1982,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4000</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="114169727_15645646333">
-            <model>замок кодовый</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4929</cityprice>
             </cityprices>
         </offer>
         <offer sku="167124449_231231">
@@ -2278,7 +2028,7 @@
             <model>держатель туалетной бумаги белый со скотчем</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1700</cityprice>
@@ -2288,7 +2038,7 @@
             <model>подушки в машину awesome</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4500</cityprice>
@@ -2318,7 +2068,7 @@
             <model>жидкая изолента</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="16.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1740</cityprice>
@@ -2368,7 +2118,7 @@
             <model>подушки в машину awesome</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4500</cityprice>
@@ -2448,7 +2198,7 @@
             <model>набор цветных прищепок 5 шт</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">384</cityprice>
@@ -2468,7 +2218,7 @@
             <model>наклейки рулон love</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="98.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="97.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">476</cityprice>
@@ -2524,26 +2274,6 @@
                 <cityprice cityId="710000000">1000</cityprice>
             </cityprices>
         </offer>
-        <offer sku="112363728_231123123">
-            <model>пароварка-вкладыш</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="63.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">902</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="133309471_123132">
-            <model>пароварка-вкладыш</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="63.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">902</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="112441280_658247944">
             <model>бейдж пластиковый</model>
             <brand>Fixcom</brand>
@@ -2578,7 +2308,7 @@
             <model>газовая горелка маленькая</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="49.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="47.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1570</cityprice>
@@ -2588,7 +2318,7 @@
             <model>набор кухонных ножей</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">10995</cityprice>
@@ -2608,7 +2338,7 @@
             <model>газовая горелка маленькая</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="49.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="46.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1570</cityprice>
@@ -2618,7 +2348,7 @@
             <model>гирлянда пчелка</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="71.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="70.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1490</cityprice>
@@ -2714,16 +2444,6 @@
                 <cityprice cityId="710000000">898</cityprice>
             </cityprices>
         </offer>
-        <offer sku="143283320_58374823944">
-            <model>черные колпачки 4 шт CHEVROLET</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">695</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="135119742_31123123">
             <model>форма аэрогриля 16 см</model>
             <brand>Fixcom</brand>
@@ -2784,16 +2504,6 @@
                 <cityprice cityId="710000000">927</cityprice>
             </cityprices>
         </offer>
-        <offer sku="128315710_231123312">
-            <model>силиконовые носки</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="29.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">400</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="130347698_1564651516">
             <model>фильтр для сигарет</model>
             <brand>Fixcom</brand>
@@ -2808,7 +2518,7 @@
             <model>Горшок дорожный</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">5200</cityprice>
@@ -2828,7 +2538,7 @@
             <model>Горшок дорожный</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">5200</cityprice>
@@ -2838,7 +2548,7 @@
             <model>Горшок дорожный</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">5200</cityprice>
@@ -2848,7 +2558,7 @@
             <model>Горшок дорожный</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">5200</cityprice>
@@ -2864,46 +2574,6 @@
                 <cityprice cityId="710000000">3399</cityprice>
             </cityprices>
         </offer>
-        <offer sku="117706937_4587934045">
-            <model>арка для цветов</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">9998</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="112430841_534983843">
-            <model>подставка для наушников</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1376</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="113969166_4759384230">
-            <model>парные фенечки инь янь</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">799</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="135662598_45484862625">
-            <model>Футляр для зубной щетки и мыльницы дорожный</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1530</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="129276000_541123123">
             <model>набор для слепка розовый</model>
             <brand>Fixcom</brand>
@@ -2914,41 +2584,11 @@
                 <cityprice cityId="710000000">7989</cityprice>
             </cityprices>
         </offer>
-        <offer sku="137412666_1259484662">
-            <model>подстаканник в коляску 2.0</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="91.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3000</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="156498344_6578923984">
-            <model>чайная пара</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2798</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="147009182_5369242743">
-            <model>набор самураи 6 шт 3 см</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="58.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">800</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="130946716_657365729">
             <model>набор самураи 2 шт</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="6.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">500</cityprice>
@@ -2968,7 +2608,7 @@
             <model>Вешалка на подголовник</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="52.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2690</cityprice>
@@ -2994,51 +2634,21 @@
                 <cityprice cityId="710000000">7989</cityprice>
             </cityprices>
         </offer>
-        <offer sku="114483682_419896648">
-            <model>подстаканник в коляску 2.0</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="91.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3000</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="119469033_4744747492">
-            <model>футляр только для зубной щетки</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1500</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="123582478_89456184651">
             <model>ночник в розетку</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="98.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="95.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">577</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="112209123_15645645613">
-            <model>Ремень олива</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="35.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1247</cityprice>
             </cityprices>
         </offer>
         <offer sku="23465332197">
             <model>Вешалка на подголовник</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="52.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2690</cityprice>
@@ -3058,7 +2668,7 @@
             <model>детская панамка синяя</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1218</cityprice>
@@ -3109,306 +2719,16 @@
             <brand>Fixcom</brand>
             <availabilities>
                 <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
-                <availability available="yes" storeId="30397554_PP4" preOrder="0" stockCount="30.0"/>
+                <availability available="yes" storeId="30397554_PP4" preOrder="0" stockCount="28.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">44500</cityprice>
                 <cityprice cityId="353263100">1000</cityprice>
             </cityprices>
         </offer>
-        <offer sku="164333186">
-            <model>корзина для белья наша 42 см</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="21.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4500</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="117848532_753835622">
-            <model>брелок спинер</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="21.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">638</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="134081997_98753978">
-            <model>набор для вязания</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3574</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="142534000_231123123">
-            <model>светильник медуза одиной</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="26.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2028</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="141662640_8769889400">
-            <model>походные приборы 3 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1191</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="138955082_4545612336">
-            <model>часы электронные белые</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="43.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">904</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="106392563_23312333">
-            <model>подставка для посуды</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1936</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="136890679_6734788934">
-            <model>держатель очков бордо</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">786</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="139031202_561132123">
-            <model>колготки ажурные черные</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">689</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="115510897_4728929474">
-            <model>лавовая лампа оранжевая</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="3.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">6971</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="150008308_4184412333">
-            <model>Разветвитель шнуровой</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3449</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="134191782_09880924">
-            <model>неоновые звезды разноцветные</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">796</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="114223613_958865368">
-            <model>брелок Cobalt</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="52.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2015</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="129896152_8932423784647">
-            <model>угольник 112 мм</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4664</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116139529_6574839532">
-            <model>алюминиевые формочки для кексиков 20 штук</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="22.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2193</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="118016984_678976676">
-            <model>салатница с теркой</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">13979</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="131508774_5747758745">
-            <model>спрунки плющ розовый пинки</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="6.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">999</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="138431862_788985499">
-            <model>вертушка для попугая</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="30.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1658</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="136259725_288292929">
-            <model>Массажер для глаз</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="16.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1574</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="150887989_231123">
-            <model>игрушка девочка мальчик красные</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="64.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1099</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="119220282_1356487956328">
-            <model>набор бармена</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="8.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">12882</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="117406673_8644553">
-            <model>сушилка для обуви</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="35.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2449</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116889260_7587844784">
-            <model>бутылка для соуса</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="40.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">558</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="131616156_784567847">
-            <model>спрунки плющ белый вэнда</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1322</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="111469779_231123123">
-            <model>жидкая изолента белая</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="21.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2190</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="108829359_785445123">
-            <model>переходник usb type-c</model>
-            <brand>a-p</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1950</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="155101484_12654564561">
-            <model>фритюрница без подставки</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="16.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2299</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="157516094_6948768300">
-            <model>стразы для тела</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">963</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="123588456_94280989">
-            <model>чехол для колес L</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3987</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="135849679_7690944385">
             <model>кернер слесарный</model>
-            <brand/>
+            <brand>Fixcom</brand>
             <availabilities>
                 <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
             </availabilities>
@@ -3416,444 +2736,94 @@
                 <cityprice cityId="710000000">1500</cityprice>
             </cityprices>
         </offer>
-        <offer sku="140368525_6873432395">
-            <model>форма для люля</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3696</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="132247235_652323233">
-            <model>Держатель штор</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="53.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3494</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="147867423_7573289858">
-            <model>крючки на присосках черные 2 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="15.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2099</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="137990014_5154556562">
-            <model>сумка для инструментов</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3997</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="128108053_4844984892">
-            <model>Заглушка черная Venera 10 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1052</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="110495253_845613353">
-            <model>ночник в розетку</model>
-            <brand>iek</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="98.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">476</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="159816248_657482932">
-            <model>пароварка-вкладыш</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="63.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">899</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="147821494_7457438934">
-            <model>дыхательный тренажер розовый</model>
-            <brand>100steps</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">914</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="130268280_7657985492">
-            <model>кэмпинг кухня складная</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="15.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">12000</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="118697087_281433030">
-            <model>Чехол для одежды</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="40.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4481</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="105536965_5093259724">
-            <model>бенч скребок стальной</model>
-            <brand>crystalline</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="38.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">997</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="147574026_6154565103">
-            <model>дыхательный тренажер розовый</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">914</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="150990444_7438355432">
-            <model>пирсинг 180 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1328</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="121161854_757878439">
-            <model>ланчбокс 2хярусный</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3689</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="142668752 _4708190908273">
-            <model>Форма для свеч</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="60.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1149</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="115035877_9289890423">
-            <model>сидушка в баню с чехлом</model>
-            <brand>nature-camping</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="66.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">749</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="064039186">
-            <model>зеркало черное</model>
+        <offer sku="110559231_54123213123">
+            <model>палочки для воздушных шариков</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2126</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="103437779_123123123">
-            <model>kids zone бежевый 4 шт</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="75.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">999</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="124116277_90989042">
-            <model>клеенка ромашка</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">898</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="121433515_564944752">
-            <model>ситечко для чая</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="37.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">900</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="119798345_789561215">
-            <model>Лупа очки</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4191</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="132997045_6548392935">
-            <model>кобура</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">797</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="141835555_231123123">
-            <model>коврик для бани</model>
-            <brand>nature-camping</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="66.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">698</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116411803_456123123">
-            <model>вспениватель</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="33.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1238</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="140506632_2312132">
-            <model>мерная чаша силиконовая</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="40.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1698</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="122237870_85748792357">
-            <model>силиконовая корзинка</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="38.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1791</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="107401301_029993052">
-            <model>Вешалка на подголовник</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2690</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="147949637_908080">
-            <model>чехол для колес L</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3999</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116097085_213123">
-            <model>подтяжки для одеяла 6 конечные</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="27.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">956</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116341310_9898042">
-            <model>набор для вязания</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3542</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="135113205_231983210">
-            <model>кассета 5 минут 5 300s</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1960</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="139817817_498498156">
-            <model>стол гриль без крышки</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">16940</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="110061696_7657889305">
-            <model>защитный фартук для плиты геометрия</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="3.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">631</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="136435317_87319789231">
-            <model>золотая лента 10 мм</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="50.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1224</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="106427606_3458962189">
-            <model>каподастр</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="93.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1100</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="120058498_313212331">
-            <model>Органайзер на козырек бежевый</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1388</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="109252388_545132123">
-            <model>массажер черный</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="25.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="47.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1577</cityprice>
             </cityprices>
         </offer>
-        <offer sku="104361721_5312123">
-            <model>Шейкер с фильтром синий</model>
+        <offer sku="110495253_845613353">
+            <model>ночник в розетку</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="95.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">9108</cityprice>
+                <cityprice cityId="710000000">577</cityprice>
             </cityprices>
         </offer>
-        <offer sku="107502625_5413132">
-            <model>вакпак 28*15</model>
+        <offer sku="121433515_564944752">
+            <model>ситечко для чая</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="37.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">4319</cityprice>
+                <cityprice cityId="710000000">987</cityprice>
             </cityprices>
         </offer>
-        <offer sku="106325130_45776436758">
-            <model>Шейкер с фильтром серый</model>
+        <offer sku="150008308_4184412333">
+            <model>Разветвитель шнуровой</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="29.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">8395</cityprice>
+                <cityprice cityId="710000000">3449</cityprice>
             </cityprices>
         </offer>
-        <offer sku="137340736_47388364929">
-            <model>самураи 6 шт 5 см</model>
+        <offer sku="106284042_98172987">
+            <model>лампа для блога</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="79.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106427606_3458962189">
+            <model>каподастр</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="93.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">999</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="154629606_77845387428">
+            <model>оптический экран для рисования большой</model>
             <brand>Fixcom</brand>
             <availabilities>
                 <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="27.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1469</cityprice>
+                <cityprice cityId="710000000">1299</cityprice>
             </cityprices>
         </offer>
-        <offer sku="131556007_7574756594">
-            <model>спрунки плющ красный рэдди</model>
+        <offer sku="105611216_79099041">
+            <model>лампа для блога</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="79.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1789</cityprice>
+                <cityprice cityId="710000000">2300</cityprice>
             </cityprices>
         </offer>
-        <offer sku="136874461_15413341416">
-            <model>Открывалка для банок</model>
+        <offer sku="116022326_813512313">
+            <model>палочки для воздушных шариков</model>
             <brand>Fixcom</brand>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="47.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">741</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="157178994_9878897898">
-            <model>Зеленое биде</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2255</cityprice>
+                <cityprice cityId="710000000">1577</cityprice>
             </cityprices>
         </offer>
         <offer sku="104801620_4708190908243">
@@ -3866,54 +2836,404 @@
                 <cityprice cityId="710000000">1450</cityprice>
             </cityprices>
         </offer>
-        <offer sku="109849082_8878483984">
-            <model>сушилка для овощей</model>
+        <offer sku="164333186">
+            <model>корзина для белья наша 42 см</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="146289741_79798089">
+            <model>зажим для простыней трубы</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">759</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150990444_7438355432">
+            <model>пирсинг 180 шт</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1328</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="113969166_4759384230">
+            <model>парные фенечки инь янь</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">596</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142154028_5734735456">
+            <model>Доска для рисования cветовая</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="82.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1149</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116672914_5439753802">
+            <model>комнатный термометр НТС-2</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="67.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1099</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122464164_1235496654">
+            <model>Разделочная доска 39*28</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="69.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137310897_6578940356">
+            <model>бумажные формочки для кексиков</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="33.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="164489318_758433475">
+            <model>дыхательный тренажер розовый</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">909</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="141974900_23123123">
+            <model>банка уточка лэппэгэр</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="22.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="111469779_231123123">
+            <model>жидкая изолента белая</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="21.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="113474553_451451516">
+            <model>декоративный светильник Rose of love</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="43.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7299</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="141720494_84565613">
+            <model>зажим для простыней трубы</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">759</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="108149067_9808243">
+            <model>Разделочная доска 39*28</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="69.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122478476_546432123">
+            <model>зажим для простыней трубы</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">759</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="135932817_272882939">
+            <model>Дождевик серый</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="41.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="130268280_7657985492">
+            <model>кэмпинг кухня складная</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="14.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">12000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="108829359_785445123">
+            <model>переходник usb type-c</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115998806_544513312">
+            <model>переходник usb type-c</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117706937_4587934045">
+            <model>арка для цветов</model>
+            <brand>Fixcom</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">9998</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147867423_7573289858">
+            <model>крючки на присосках черные 2 шт</model>
             <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="46.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1928</cityprice>
+                <cityprice cityId="710000000">2099</cityprice>
             </cityprices>
         </offer>
-        <offer sku="129357386_698647860">
-            <model>Свеча красная</model>
-            <brand>scented-candle</brand>
+        <offer sku="114376618_9865678645">
+            <model>чашки пирамидки</model>
+            <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="9.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">709</cityprice>
+                <cityprice cityId="710000000">741</cityprice>
             </cityprices>
         </offer>
-        <offer sku="103293346_856598652">
-            <model>пирометр</model>
-            <brand>onlineal</brand>
+        <offer sku="123588456_94280989">
+            <model>чехол для колес L</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3987</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147574026_6154565103">
+            <model>дыхательный тренажер розовый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="16.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">694</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142668752 _4708190908272">
+            <model>Кольцо для мяча тигренок</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1131</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115035877_9289890423">
+            <model>сидушка в баню с чехлом</model>
+            <brand>nature-camping</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="66.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">749</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128108053_4844984892">
+            <model>Заглушка черная Venera 10 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1052</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156498344_6578923984">
+            <model>чайная пара</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118697087_281433030">
+            <model>Чехол для одежды</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="39.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4481</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="159816248_657482932">
+            <model>пароварка-вкладыш</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="63.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">899</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128315710_231123312">
+            <model>силиконовые носки</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">398</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137990014_5154556562">
+            <model>сумка для инструментов</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3997</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="124116277_90989042">
+            <model>клеенка ромашка</model>
+            <brand/>
             <availabilities>
                 <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">2645</cityprice>
+                <cityprice cityId="710000000">898</cityprice>
             </cityprices>
         </offer>
-        <offer sku="119805761_593072707">
-            <model>Вешалка на подголовник</model>
+        <offer sku="141835555_231123123">
+            <model>коврик для бани</model>
+            <brand>nature-camping</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="66.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">698</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="105536965_5093259724">
+            <model>бенч скребок стальной</model>
+            <brand>crystalline</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="38.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">997</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="130357813_23498724">
+            <model>хлопок 10 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">996</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136435317_87319789231">
+            <model>золотая лента 10 мм</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="50.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="112430841_534983843">
+            <model>подставка для наушников</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1362</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120058498_313212331">
+            <model>Органайзер на козырек бежевый</model>
             <brand/>
             <availabilities>
                 <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">2630</cityprice>
+                <cityprice cityId="710000000">1388</cityprice>
             </cityprices>
         </offer>
-        <offer sku="140796702_568793952">
-            <model>брелок фотоальбом</model>
+        <offer sku="107594478_48345132123">
+            <model>клипса для простыней белые</model>
             <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="26.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="6.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">495</cityprice>
+                <cityprice cityId="710000000">998</cityprice>
             </cityprices>
         </offer>
         <offer sku="129093655_8562331">
@@ -3926,24 +3246,14 @@
                 <cityprice cityId="710000000">989</cityprice>
             </cityprices>
         </offer>
-        <offer sku="142154028_5734735456">
-            <model>Доска для рисования cветовая</model>
+        <offer sku="151853049_8576798554">
+            <model>декоративный светильник</model>
             <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="82.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1137</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="107594478_48345132123">
-            <model>клипса для простыней белые</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">998</cityprice>
+                <cityprice cityId="710000000">2849</cityprice>
             </cityprices>
         </offer>
         <offer sku="122051113_43298032">
@@ -3956,54 +3266,44 @@
                 <cityprice cityId="710000000">3181</cityprice>
             </cityprices>
         </offer>
-        <offer sku="128305275_753759394">
-            <model>форма машинка</model>
-            <brand>Fixcom</brand>
+        <offer sku="155101484_12654564561">
+            <model>фритюрница без подставки</model>
+            <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1308</cityprice>
+                <cityprice cityId="710000000">2299</cityprice>
             </cityprices>
         </offer>
-        <offer sku="161071253_684792937">
-            <model>сервировочный коврик</model>
-            <brand>Fixcom</brand>
+        <offer sku="112363728_231123123">
+            <model>пароварка-вкладыш</model>
+            <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="36.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="63.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1494</cityprice>
+                <cityprice cityId="710000000">896</cityprice>
             </cityprices>
         </offer>
-        <offer sku="101785631_76858898343">
-            <model>формочка эскимо</model>
-            <brand>Fixcom</brand>
+        <offer sku="136259725_288292929">
+            <model>Массажер для глаз</model>
+            <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="69.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1199</cityprice>
+                <cityprice cityId="710000000">1569</cityprice>
             </cityprices>
         </offer>
-        <offer sku="120809125_322232112">
-            <model>наклейка на зеркало</model>
-            <brand>Fixcom</brand>
+        <offer sku="117406673_8644553">
+            <model>сушилка для обуви</model>
+            <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="39.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="35.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">487</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="123054648_123123">
-            <model>форма для люля</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3747</cityprice>
+                <cityprice cityId="710000000">2444</cityprice>
             </cityprices>
         </offer>
         <offer sku="112339687_5664156163">
@@ -4016,34 +3316,14 @@
                 <cityprice cityId="710000000">1840</cityprice>
             </cityprices>
         </offer>
-        <offer sku="154629606_77845387428">
-            <model>оптический экран для рисования большой</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="27.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1299</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="132626624_5745930593">
             <model>пирсинг 150 шт</model>
             <brand/>
             <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="22.0"/>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">841</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="137310897_6578940356">
-            <model>бумажные формочки для кексиков</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="33.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">387</cityprice>
             </cityprices>
         </offer>
         <offer sku="107516976_56412323123">
@@ -4053,57 +3333,7 @@
                 <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="18.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">4389</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="103467323_3232323">
-            <model>Кисть для чая</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">2367</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="143359854_5433356742">
-            <model>мимоза</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="34.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1400</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="140464053_6584383439">
-            <model>лилия</model>
-            <brand>Fixcom</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1164</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="133884877_575284025">
-            <model>когтерезка</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">773</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="103647563_212156485">
-            <model>поджопник</model>
-            <brand>global</brand>
-            <availabilities>
-                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="32.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">3987</cityprice>
+                <cityprice cityId="710000000">3789</cityprice>
             </cityprices>
         </offer>
         <offer sku="140107020_56745235578">
@@ -4114,6 +3344,756 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1774</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="104701785_8745146531">
+            <model>лампа для блога</model>
+            <brand>shopmax</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="79.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1699</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131508774_5747758745">
+            <model>спрунки плющ розовый пинки</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">989</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129357386_698647860">
+            <model>Свеча красная</model>
+            <brand>scented-candle</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="9.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">711</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="107502625_5413132">
+            <model>вакпак 28*15</model>
+            <brand>zhabanya</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3889</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142668752 _4708190908273">
+            <model>Форма для свеч</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="60.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1149</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147821494_7457438934">
+            <model>дыхательный тренажер розовый</model>
+            <brand>100steps</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="17.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">699</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="103437779_123123123">
+            <model>kids zone бежевый 4 шт</model>
+            <brand>roxy-kids</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="75.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1139</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128305275_753759394">
+            <model>форма машинка</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1297</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117848532_753835622">
+            <model>брелок спинер</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">638</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116097085_213123">
+            <model>подтяжки для одеяла 6 конечные</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">957</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143359854_5433356742">
+            <model>мимоза</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="34.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1397</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147949637_908080">
+            <model>чехол для колес L</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3899</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="161071253_684792937">
+            <model>сервировочный коврик</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="36.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1489</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="107401301_029993052">
+            <model>Вешалка на подголовник</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="52.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2898</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="103467323_3232323">
+            <model>Кисть для чая</model>
+            <brand>puer-kz</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2342</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="112882242_5123312132">
+            <model>наклейки защитные прозрачные</model>
+            <brand>aacar</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="54.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">533</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114169727_15645646333">
+            <model>замок кодовый</model>
+            <brand>prolock</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4901</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140796702_568793952">
+            <model>брелок фотоальбом</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">488</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="110061696_7657889305">
+            <model>защитный фартук для плиты геометрия</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">633</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140464053_6584383439">
+            <model>лилия</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="48.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1158</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138431862_788985499">
+            <model>вертушка для попугая</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="30.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136874461_15413341416">
+            <model>Открывалка для банок</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">741</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="135113205_231983210">
+            <model>кассета 5 минут 5 300s</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="16.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1928</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118016984_678976676">
+            <model>салатница с теркой</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">13982</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114223613_958865368">
+            <model>брелок Cobalt</model>
+            <brand>chevrolet</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="52.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1976</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132247235_652323233">
+            <model>Держатель штор</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="53.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3494</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="134081997_98753978">
+            <model>набор для вязания</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="23.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3543</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="123054648_123123">
+            <model>форма для люля</model>
+            <brand>kitchen-dining</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3743</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116341310_9898042">
+            <model>набор для вязания</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="23.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3558</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="157516094_6948768300">
+            <model>стразы для тела</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">977</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="103647563_212156485">
+            <model>поджопник</model>
+            <brand>global</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="31.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3989</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115510897_4728929474">
+            <model>лавовая лампа оранжевая</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">6955</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132997045_6548392935">
+            <model>кобура</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">801</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106392563_23312333">
+            <model>подставка для посуды</model>
+            <brand>supermarket-posudy</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1909</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137412666_1259484662">
+            <model>подстаканник в коляску 2.0</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="91.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2874</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142534000_231123123">
+            <model>светильник медуза одиной</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2005</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121161854_757878439">
+            <model>ланчбокс 2хярусный</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3695</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136890679_6734788934">
+            <model>держатель очков бордо</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="23.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">764</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139031202_561132123">
+            <model>колготки ажурные черные</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="55.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">665</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140368525_6873432395">
+            <model>форма для люля</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="7.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114483682_419896648">
+            <model>подстаканник в коляску 2.0</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="91.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2786</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="134191782_09880924">
+            <model>неоновые звезды разноцветные</model>
+            <brand>light</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="12.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133884877_575284025">
+            <model>когтерезка</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="24.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">742</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119220282_1356487956328">
+            <model>набор бармена</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="8.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">12567</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150887989_231123">
+            <model>игрушка девочка мальчик красные</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="58.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1087</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131616156_784567847">
+            <model>спрунки плющ белый вэнда</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147009182_5369242743">
+            <model>набор самураи 6 шт 3 см</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="57.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="141564118_8787987979">
+            <model>электрическая овощерезка</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">49296</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139817817_498498156">
+            <model>стол гриль без крышки</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">16802</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="104361721_5312123">
+            <model>Шейкер с фильтром синий</model>
+            <brand>aqualove</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">9098</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="157178994_9878897898">
+            <model>Зеленое биде</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="19.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2242</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119805761_593072707">
+            <model>Вешалка на подголовник</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="52.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="064039186">
+            <model>зеркало черное</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2118</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137340736_47388364929">
+            <model>самураи 6 шт 5 см</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="27.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1455</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133309471_123132">
+            <model>пароварка-вкладыш</model>
+            <brand>swed-house</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="63.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">866</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140506632_2312132">
+            <model>мерная чаша силиконовая</model>
+            <brand>home</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="40.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116411803_456123123">
+            <model>вспениватель</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1226</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="112209123_15645645613">
+            <model>Ремень олива</model>
+            <brand>7-62</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="35.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">876</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119798345_789561215">
+            <model>Лупа очки</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4179</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120894039_586795485">
+            <model>коврик доллар</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="29.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1924</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120809125_322232112">
+            <model>наклейка на зеркало</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="39.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">479</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138955082_4545612336">
+            <model>часы электронные белые</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="43.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="101785631_76858898343">
+            <model>формочка эскимо</model>
+            <brand>dom-konditera</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="68.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1154</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="141662640_8769889400">
+            <model>походные приборы 3 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="11.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1185</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116139529_6574839532">
+            <model>алюминиевые формочки для кексиков 20 штук</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="22.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2191</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="550235151">
+            <model>Набор для создания отпечатка</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1299</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="103293346_856598652">
+            <model>пирометр</model>
+            <brand>onlineal</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2593</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143283320_58374823944">
+            <model>черные колпачки 4 шт CHEVROLET</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">665</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129896152_8932423784647">
+            <model>угольник 112 мм</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4667</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116889260_7587844784">
+            <model>бутылка для соуса</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="40.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">546</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106325130_45776436758">
+            <model>Шейкер с фильтром серый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="29.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">8382</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122237870_85748792357">
+            <model>силиконовая корзинка</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="38.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1757</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131556007_7574756594">
+            <model>спрунки плющ красный рэдди</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1777</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="109252388_545132123">
+            <model>массажер черный</model>
+            <brand>gushiyuta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="25.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1567</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="109849082_8878483984">
+            <model>сушилка для овощей</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30397554_PP2" preOrder="0" stockCount="42.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1938</cityprice>
             </cityprices>
         </offer>
     </offers>
