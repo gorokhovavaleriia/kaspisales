@@ -558,23 +558,26 @@ def process_pnl(file):
             combined_cols.append(sh_str if sh_str and sh_str != 'nan' else (ph_str if ph_str and ph_str != 'nan' else 'nan'))
 
         article_col_idx = next((i for i, c in enumerate(combined_cols) if str(c).lower() == 'код'), None)
+        name_col_idx = next((i for i, c in enumerate(combined_cols) if 'наименование' in str(c).lower()), None)
         cost_col_idx = next((i for i, c in enumerate(combined_cols) if 'себестоимость' in str(c).lower()), None)
 
-        if article_col_idx is None or cost_col_idx is None:
+        if name_col_idx is None or cost_col_idx is None:
             return f"COLS_NOT_FOUND: колонки={combined_cols}"
 
         data = raw_df.iloc[sub_idx + 1:]
         df_pnl = pd.DataFrame({
-            'Артикул': data.iloc[:, article_col_idx].values,
+            'Артикул': data.iloc[:, article_col_idx].values if article_col_idx is not None else '',
+            'Наименование': data.iloc[:, name_col_idx].values,
             'Себестоимость': data.iloc[:, cost_col_idx].values,
         })
-        df_pnl = df_pnl.dropna(subset=['Артикул'])
+        df_pnl = df_pnl.dropna(subset=['Наименование'])
         df_pnl['Артикул'] = df_pnl['Артикул'].astype(str).str.strip()
+        df_pnl['Наименование_clean'] = df_pnl['Наименование'].astype(str).str.strip().str.lower().str.replace(r'\s+', ' ', regex=True)
         df_pnl['Себестоимость'] = pd.to_numeric(
             df_pnl['Себестоимость'].astype(str).str.replace(',', '.'), errors='coerce'
         ).fillna(0)
-        df_pnl = df_pnl[df_pnl['Артикул'].str.len() > 0]
-        return df_pnl.drop_duplicates(subset=['Артикул'])
+        df_pnl = df_pnl[df_pnl['Наименование_clean'].str.len() > 0]
+        return df_pnl.drop_duplicates(subset=['Наименование_clean'])
     except Exception as e:
         return f"EXCEPTION: {e}"
 
@@ -646,11 +649,13 @@ def build_products_database(df, stock_df, links_df, xml_prices_dict, xml_names_d
                 xml_qty = xml_stock_dict.get(str(article), 0)
                 qty = int(xml_qty) if xml_qty else 0
                 stock_info = f"{qty} шт." if qty else "0 шт."
-            if qty <= 0 and cost == 0 and pnl_df is not None:
-                pnl_match = pnl_df[pnl_df['Артикул'] == str(article).strip()]
+            if cost <= 0 and pnl_df is not None:
+                pnl_match = pnl_df[pnl_df['Наименование_clean'] == prod_name_clean]
                 if not pnl_match.empty:
-                    cost = pnl_match.iloc[0]['Себестоимость']
-                    cost_info = f"{cost:,.2f} ₸"
+                    pnl_cost = pnl_match.iloc[0]['Себестоимость']
+                    if pnl_cost > 0:
+                        cost = pnl_cost
+                        cost_info = f"{cost:,.2f} ₸"
         else:
             stock_info = "0"
 
@@ -758,11 +763,13 @@ def build_products_database(df, stock_df, links_df, xml_prices_dict, xml_names_d
                 xml_qty = xml_stock_dict.get(sku, 0)
                 qty = int(xml_qty) if xml_qty else 0
                 stock_info = f"{qty} шт." if qty else "0 шт."
-            if qty <= 0 and cost == 0 and pnl_df is not None:
-                pnl_match = pnl_df[pnl_df['Артикул'] == str(sku).strip()]
+            if cost <= 0 and pnl_df is not None:
+                pnl_match = pnl_df[pnl_df['Наименование_clean'] == prod_name_clean]
                 if not pnl_match.empty:
-                    cost = pnl_match.iloc[0]['Себестоимость']
-                    cost_info = f"{cost:,.2f} ₸"
+                    pnl_cost = pnl_match.iloc[0]['Себестоимость']
+                    if pnl_cost > 0:
+                        cost = pnl_cost
+                        cost_info = f"{cost:,.2f} ₸"
         link_url = None
         if links_df is not None and not links_df.empty:
             l_match = links_df[links_df['Артикул'] == sku]
@@ -866,6 +873,47 @@ if selected_uploaded_files:
         _ensure_gsheet_manual_loaded()
 
         st.markdown(f'<div class="page-subtitle">🗓️ Метрика за последние 30 дней: с <b>{thirty_days_ago.strftime("%d.%m.%Y")}</b> по <b>{max_date.strftime("%d.%m.%Y")}</b></div>', unsafe_allow_html=True)
+        st.markdown("---")
+
+        # --- ГРАФИК ПРИБЫЛИ ПО ДНЯМ ---
+        _dp = df[df['Дата поступления заказа'] >= thirty_days_ago].copy()
+        _cost_map = products_db.set_index('Артикул')['Cебестоимсость цена'].to_dict()
+        _dp['_cost'] = _dp['Артикул'].map(_cost_map).fillna(0)
+        _dp = _dp[_dp['_cost'] > 0]
+        _qty = _dp['Количество'].clip(lower=1)
+        _price_per_unit = _dp['Сумма'] / _qty
+        _delivery_per_unit = _price_per_unit.apply(lambda p: delivery_cost(p, 1))
+        _dp['_profit'] = _dp['Сумма'] * 0.845 - _delivery_per_unit * _qty - _dp['_cost'] * _qty
+        _dp_by_day = _dp.groupby('Дата поступления заказа')['_profit'].sum().reset_index()
+        _dp_by_day.columns = ['Дата', 'Прибыль']
+
+        _total_profit = _dp_by_day['Прибыль'].sum()
+        _profit_sign = "+" if _total_profit > 0 else ""
+        _profit_color = "#16a34a" if _total_profit >= 0 else "#dc2626"
+
+        st.markdown(
+            f'<div style="font-weight:600;font-size:0.97rem;color:#1e293b;margin-bottom:2px;">'
+            f'📈 Прибыль по дням &nbsp;<span style="font-size:0.85rem;color:{_profit_color};font-weight:700;">'
+            f'Итого: {_profit_sign}{round(_total_profit):,} ₸</span></div>'.replace(",", " "),
+            unsafe_allow_html=True,
+        )
+        _bar_colors = ['#16a34a' if v >= 0 else '#dc2626' for v in _dp_by_day['Прибыль']]
+        _fig_profit = px.bar(
+            _dp_by_day, x='Дата', y='Прибыль',
+            labels={'Прибыль': 'Прибыль, ₸', 'Дата': ''},
+            height=210,
+        )
+        _fig_profit.update_traces(marker_color=_bar_colors)
+        _fig_profit.update_xaxes(
+            range=[x_axis_start, x_axis_end],
+            tickformat="%d.%m", tickfont=dict(size=10), showgrid=False,
+        )
+        _fig_profit.update_yaxes(tickfont=dict(size=10), showgrid=True, gridcolor='#f1f5f9')
+        _fig_profit.update_layout(
+            margin=dict(l=0, r=0, t=4, b=0),
+            plot_bgcolor='white', paper_bgcolor='white', showlegend=False,
+        )
+        st.plotly_chart(_fig_profit, use_container_width=True, key="chart_daily_profit")
         st.markdown("---")
 
         col_search, col_btn = st.columns([2, 1])
